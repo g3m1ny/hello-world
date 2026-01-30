@@ -35,3 +35,6 @@ MANIFEST
 venv/
 ENV/
 env/
+
+# Editor directories
+.vscode/
